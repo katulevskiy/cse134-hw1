@@ -117,11 +117,29 @@ We're hiring! https://medium.com/jobs-at-medium/work-at-medium-959d1a85284e
 
 Filtering out curious and knowledgeable candidates.
 
+![image](https://github.com/user-attachments/assets/9945214a-81ab-4393-a487-47d9214b8394)
 
+These values help Medium enforce its subscription model, track user engagement, and personalize content while monitoring compliance with its free-tier limits.
 
 ### Q8
 
+![image](https://github.com/user-attachments/assets/0b6172b3-8ade-4964-8801-e1d5ffb297dc)
+
+Adds trending searches
+
 ### Q9
+
+x-content-type-options: nosniff - Prevents type sniffing.
+
+x-download-options: noopen - Prevents auto-opening of downloads.
+
+x-frame-options: DENY - Blocks iframe embedding (prevents clickjacking).
+
+x-permitted-cross-domain-policies: none - Restricts cross-domain data for plugins.
+
+x-render-origin-server: Render - Identifies the origin server for debugging.
+
+x-xss-protection: 0 - Disables outdated XSS protection.
 
 ### Q10
 
