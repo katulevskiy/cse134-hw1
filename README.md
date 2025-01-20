@@ -30,3 +30,13 @@ Total bytes sent
 6.9 MB resources
 
 ![image](https://github.com/user-attachments/assets/6d12b5f7-20a2-4cf2-97b4-00ffa9197e44)
+
+## Part 2
+
+### Q1
+
+espn: can't get to top headlines section, infinitely scrolls feed instead
+
+webaim: could easily locate the virtual training page, with some difficulties, it is posible to figure out that it is not archived, since if you tab, it only tabs over the links
+
+
