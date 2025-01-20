@@ -39,4 +39,28 @@ espn: can't get to top headlines section, infinitely scrolls feed instead
 
 webaim: could easily locate the virtual training page, with some difficulties, it is posible to figure out that it is not archived, since if you tab, it only tabs over the links
 
+## Part 3
 
+### Q1
+
+![image](https://github.com/user-attachments/assets/9df0959b-6dc1-48c8-9ac1-8f8da656fa26)
+
+![image](https://github.com/user-attachments/assets/b756ec41-5788-4cb1-888b-b1cb9a273335)
+
+Troubling things about uci website:
+
+No expiration, so outdated info can be received
+
+Cant receive content by parts because of content-type: text/html; charset=UTF-8
+
+Some weird server info open to anyone: mod_auth_kerb/5.4
+
+% data transfer:
+
+UCSD:
+
+A) Documents - 1, B) Stylesheets - 52, C) Scripts - 4, D) Fonts - 5, E) Images - 38
+
+UCI:
+
+A) Documents - 2, B) Stylesheets - 5, C) Scripts - 19, D) Fonts - 5, E) Images - 70
