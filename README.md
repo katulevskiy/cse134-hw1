@@ -64,3 +64,63 @@ A) Documents - 1, B) Stylesheets - 52, C) Scripts - 4, D) Fonts - 5, E) Images -
 UCI:
 
 A) Documents - 2, B) Stylesheets - 5, C) Scripts - 19, D) Fonts - 5, E) Images - 70
+
+### Q2
+
+![image](https://github.com/user-attachments/assets/607b735d-e7a3-4006-a3c2-b12ad9dd9868)
+
+UCSD - didn't find any weird artefacts or breaking changes (possibly buttons, but did not check, since only reviewing the main page)
+
+![image](https://github.com/user-attachments/assets/c2139e4b-ab84-421f-8eaf-d596a5e7ad4b)
+
+Scripps - blank page
+
+![image](https://github.com/user-attachments/assets/62d067a6-fbfa-433e-a0af-72d3b65222f5)
+
+UCLA - parts of content missing
+
+
+### Q3
+
+yes, https://www.csuci.edu/qwerty
+
+no, https://jpcatholic.edu/webdevhelloworld
+
+custom 404 pages improve user experience by guiding users back to the site with helpful links or a search bar
+
+### Q4
+
+![image](https://github.com/user-attachments/assets/75530bc7-d3a4-402c-969e-1c4aba391c93)
+
+it discloses sensitive paths like /api and /graphql
+
+blocks AI and scraping bots (GPTBot, ClaudeBot) to prevent unauthorized content use for AI training or data mining
+
+
+### Q5
+
+Google Hacking uses advanced search operators to find sensitive or exposed information on websites (e.g., login pages, files, credentials).
+
+Google Bot indexes publicly accessible pages indiscriminately, including accidentally exposed sensitive files, configuration data, or debug pages.
+
+Avoid exposing sensitive data through public paths, properly secure endpoints with authentication, use robots.txt to prevent indexing of sensitive resources.
+
+A poorly designed robots.txt file might inadvertently reveal sensitive paths, making them targets for Google Hacking.
+
+### Q6
+
+### Q7
+
+### Q8
+
+### Q9
+
+### Q10
+
+### Q11
+
+### Q12
+
+### Q13
+
+### Q14
