@@ -109,7 +109,15 @@ A poorly designed robots.txt file might inadvertently reveal sensitive paths, ma
 
 ### Q6
 
+Top results are identical, some lower results differ a bit. Google just has better ui than bing, and is slightly more relevant.
+
 ### Q7
+
+We're hiring! https://medium.com/jobs-at-medium/work-at-medium-959d1a85284e
+
+Filtering out curious and knowledgeable candidates.
+
+
 
 ### Q8
 
