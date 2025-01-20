@@ -143,10 +143,48 @@ x-xss-protection: 0 - Disables outdated XSS protection.
 
 ### Q10
 
+![image](https://github.com/user-attachments/assets/f4eac19b-7e38-44e4-8de6-b22be03cb0f5)
+
+Eliminate Render-Blocking Resources: Defer non-critical JS/CSS to improve load speed.
+
+Enable Text Compression: Use Gzip/Brotli to reduce resource sizes and loading times.
+
+Properly Size Images: Resize images to match display dimensions, saving 1,329 KiB.
+
+![image](https://github.com/user-attachments/assets/4e682733-1c06-4844-84be-0ae30d0f87de)
+
+sdsu has lower performance score, so needs more work
+
 ### Q11
+
+Chrome: https://chromestatus.com/
+
+Firefox: https://platform-status.mozilla.org/
+
+Edge: https://dev.windows.com/microsoft-edge/platform/status/
+
+Safari: https://webkit.org/status/
+
+Chrome Version for Shadow DOM v1: Chrome 53.
+
+Shadow DOM v1 Release Date: August 31, 2016.
+
+Chrome Age: First released on September 2, 2008 (16 years old).
 
 ### Q12
 
+![image](https://github.com/user-attachments/assets/a603ba34-da1a-4c26-b647-c924d36aedb2)
+
+Couldn't load the page. We should support adequately legacy browsers, but have a limit on how old they can be for testing purposes.
+
 ### Q13
 
+X-Content-Type-Options: nosniff ensures files are treated strictly as their declared content type, reducing security risks. 
+
+Cloudflare is a platform providing DDoS protection, CDN services, SSL/TLS encryption, and performance optimization for websites.
+
 ### Q14
+
+UCSD: one, myfonts.net
+
+SDSU: six, sdsu.edu, youtube.com, google.com
